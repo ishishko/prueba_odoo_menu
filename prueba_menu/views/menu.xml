@@ -1,4 +1,4 @@
-<record id="menu_prueba" model="stock.picking.tree">
+<record id="menu_prueba" model="ir.ui.view">
     <field name="name">menu_prueba</field>
     <field name="type">ir.actions.act_window</field>
     <field name="res_model">stock.picking</field>
