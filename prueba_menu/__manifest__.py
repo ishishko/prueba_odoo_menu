@@ -12,6 +12,7 @@ Prueba de menu odoo 17
     "version": "17.0.0.0.0",
     "depends": ["base", "sale"],
     "data": [
+        "views/menu.xml",
     ],
     "installable": True,
     "application": True,

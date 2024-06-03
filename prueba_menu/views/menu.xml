@@ -1,0 +1,14 @@
+<record id="menu_prueba" model="ir.actions.act_window">
+    <field name="name">menu_prueba</field>
+    <field name="type">ir.actions.act_window</field>
+    <field name="res_model">stock.picking</field>
+    <field name="view_mode">kanban,tree,form</field>
+    <!--<field name="view_id" ref="mgmtsystem_nonconformity.open_mgmtsystem_nonconformity_list"/>-->
+</record>
+    
+<menuitem id="menu_nonconformity_extra"
+        name="Nonconformity"
+        sequence="29"
+        web_icon="prueba_menu,static/description/icon.png"
+        action="menu_prueba"/>
+<menuitem/>
