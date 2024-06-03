@@ -3,7 +3,7 @@
     <field name="type">ir.actions.act_window</field>
     <field name="res_model">stock.picking</field>
     <field name="view_mode">kanban,tree,form</field>
-    <!--<field name="view_id" ref="mgmtsystem_nonconformity.open_mgmtsystem_nonconformity_list"/>-->
+    <field name="view_id" ref="stock.vpicktree"/>
 </record>
     
 <menuitem id="menu_nonconformity_extra"
