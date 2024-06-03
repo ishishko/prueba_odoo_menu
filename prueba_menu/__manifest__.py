@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Comodato",
+    "name": "Prueba de menu",
     "summary": "Prueba de menu",
     "description": """
 Prueba de menu odoo 17
